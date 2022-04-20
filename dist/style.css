@@ -1,0 +1,12 @@
+header{
+    text-align: center;
+    background-color: pink;
+    margin: 5px;
+    font-size: 20px;
+};
+
+.card{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
